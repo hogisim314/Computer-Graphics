@@ -1,4 +1,4 @@
-# HYU-computer_graphics
+# computer_graphics
 
 ## Project1
 Implementing a basic viewer with grid line and camera moving
